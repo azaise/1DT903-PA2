@@ -144,6 +144,5 @@ There might be some bugs regarding the gui since I did not have time to test all
 possibilities. So if the program crashes see it more as a feature (that tells you that 
 you did something wrong) rather than an error. :-)   
 
-[Gitlab repo.](https://gitlab.lnu.se/az222hr/1dt903-pa2)  
 [Video demo.](https://www.youtube.com/watch?v=qc31nHPgfX4)
  
